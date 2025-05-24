@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: WhisperChecker
+## Notes: Alerts you if a whisper is from someone on your list.
+## Author: You
+## SavedVariables: WhisperCheckerDB
+blacklist_tracker.lua
